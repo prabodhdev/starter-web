@@ -1,5 +1,0 @@
-THis is some test generated for git tutorial
-
-Some more text added here in chapter 26.
-
-more changes are here.
